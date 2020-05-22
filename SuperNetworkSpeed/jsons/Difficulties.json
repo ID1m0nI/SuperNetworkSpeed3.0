@@ -1,0 +1,25 @@
+[
+ {
+   "name": "SuperNetworkSpeed",
+   "baseHappiness": 9,
+   "extraHappinessPerLuxury": 0,
+   "researchCostModifier": 0.12,
+   "unitCostModifier": 0.10,
+   "buildingCostModifier": 0.17,
+   "policyCostModifer": 0.14,
+   "unhappinessModifier": 1,
+   "barbarianBonus": 0.33,
+   "aiCityGrowthModifier": 0.12,
+   "aiUnitCostModifier": 0.02,
+   "aiBuildingCostModifier": 0.05,
+   "aiWonderCostModifier": 0.10,
+   "aiBuildingMaintenanceModifier": 0.09,
+   "aiUnitMaintenanceModifier": 0.10,
+   "aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel"],
+   "aiFreeUnits": ["Settler", "Warrior", "Warrior", "Worker", "Worker", "Scout"],
+   "aiUnhappinessModifier": 0.2,
+   "aisExchangeTechs": true,
+   "turnBarbariansCanEnterPlayerTiles": 0,
+   "clearBarbarianCampReward": 50
+ }
+]
